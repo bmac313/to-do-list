@@ -1,6 +1,5 @@
 #------------------------------------------#
-#       TO-DO LIST FOR PROGRAM             #
-# > Improve readability of output.         #
+#           POSSIBLE CHANGES               #
 # > Modify the list array in place instead #
 #   of returning it (if possible).         #
 # > Add conditional for if the user tries  #
