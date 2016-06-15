@@ -55,12 +55,6 @@ def show_main_menu
 	puts " "
 end
 
-#def get_user_input
-#	print "Type a command here: "
-#	input = gets.chomp
-#	return input
-#end
-
 def parse_command(cmd)
 	case cmd
 		when 'create'
