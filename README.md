@@ -17,10 +17,11 @@ How to run:
 
 Q&As
 
+Does the program work on Mac OS?
+* No. Currently, it only works on Windows.
+
 Where and how does the program save my To-Do Lists?
 * The lists are saved as text files (.txt), in the "data" subfolder.
 
 Can I import a list into the program externally?
-* Yes. Write and save a text file (.txt) with each task on its own line, then place it in the "data" folder; this is where the program 
-looks for saved lists. Do NOT number the tasks, as the program will do this automatically when you use the 'show' command from the main 
-menu.
+* Yes. Write and save a text file (.txt) with each task on its own line, then place it in the "data" folder; this is where the program looks for saved lists. Do NOT number the tasks, as the program will do this automatically when you use the 'show' command from the main menu.
