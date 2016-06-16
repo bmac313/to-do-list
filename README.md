@@ -1,4 +1,4 @@
-# Interactive To-Do List
+# Interactive To-Do List, v0.2.1
 
 ====
 
@@ -18,7 +18,7 @@ How to run:
 Q&As
 
 Does the program work on Mac OS?
-* No. Currently, it only works on Windows.
+* Probably not, since it hasn't been tested for Mac OS yet. Feel free to do so if you like!
 
 Where and how does the program save my To-Do Lists?
 * The lists are saved as text files (.txt), in the "data" subfolder.
